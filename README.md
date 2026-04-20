@@ -2,7 +2,11 @@
 
 An automated OCR tool designed for **Opus Magnum** (by Zachtronics). This application allows users to upload screenshots of their level completions and instantly compares their **Cost**, **Cycles**, and **Area** against the absolute global theoretical minimums (Pareto Frontier).
 
+
+
 This program will only recognize puzzles from the main game (acts 1-5), not recognizing journal puzzles or DLC.
+
+
 
 ## 🚀 Features
 - **OCR Detection:** Uses Tesseract OCR and OpenCV to read statistics directly from game screenshots.
