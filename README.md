@@ -34,6 +34,8 @@ World records in Opus Magnum are constantly evolving. The records stored in this
 
 
 EXAMPLE GIF
+
+
 <img width="826" height="647" alt="Opus Magnum - Hair Product (150G, 50, 14, 2026-04-12-12-58-20)" src="https://github.com/user-attachments/assets/2af07965-6c7d-49ee-bec8-5c5e1a334f09" />
 
 
