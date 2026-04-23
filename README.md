@@ -33,6 +33,7 @@ To run this project locally, you will need:
 World records in Opus Magnum are constantly evolving. The records stored in this app reflect the Pareto Frontier minimums as of April 2026.
 
 
+
 EXAMPLE GIF
 
 
